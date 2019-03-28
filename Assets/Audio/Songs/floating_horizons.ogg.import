@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/floating_horizons.ogg-48fc1d6566e105c373e91bb0202a9d34.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Songs/floating_horizons.ogg"
+dest_files=[ "res://.import/floating_horizons.ogg-48fc1d6566e105c373e91bb0202a9d34.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

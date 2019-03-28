@@ -1,0 +1,6 @@
+/home/blukat/localdev/ManafestSandbox/.mono/temp/obj/Tools/ManafestSandbox.csprojResolveAssemblyReference.cache
+/home/blukat/localdev/ManafestSandbox/.mono/temp/obj/Tools/ManafestSandbox.csproj.CoreCompileInputs.cache
+/home/blukat/localdev/ManafestSandbox/.mono/temp/bin/Tools/ManafestSandbox.dll
+/home/blukat/localdev/ManafestSandbox/.mono/temp/bin/Tools/ManafestSandbox.pdb
+/home/blukat/localdev/ManafestSandbox/.mono/temp/obj/Tools/ManafestSandbox.dll
+/home/blukat/localdev/ManafestSandbox/.mono/temp/obj/Tools/ManafestSandbox.pdb
