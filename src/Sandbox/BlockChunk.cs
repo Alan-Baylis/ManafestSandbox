@@ -3,7 +3,7 @@
 */
 using System;
 
-public class Chunk {
+public class BlockChunk {
     public const int Depth = 64;
     public const int Width = 64;
     public const int Height = 256;

@@ -69,9 +69,12 @@
 
     <Compile Include="src\DB\SettingsDb.cs" />
     <Compile Include="src\DB\CSV.cs" />
+    <Compile Include="src\DB\BlockDB.cs" />
 
     <Compile Include="src\Sandbox\Block.cs" />
-    <Compile Include="src\Sandbox\Chunk.cs" />
+    <Compile Include="src\Sandbox\BlockChunk.cs" />
+    <Compile Include="src\Sandbox\BlockWorld.cs" />
+    <Compile Include="src\Sandbox\BlockCartographer.cs" />
     <Compile Include="src\Sandbox\IFancyBlock.cs" />
 
   </ItemGroup>
